@@ -1,0 +1,100 @@
+\documentclass[a4paper,11pt]{article}
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage[margin=2.5cm]{geometry}
+\usepackage{hyperref}
+\usepackage{enumitem}
+\usepackage{titlesec}
+\usepackage{xcolor}
+
+% Configuração das cores e links
+\hypersetup{
+    colorlinks=true,
+    linkcolor=blue,
+    filecolor=magenta,      
+    urlcolor=blue,
+}
+
+% Formatando as seções
+\titleformat{\section}{\large\bfseries\color{darkgray}}{}{0em}{}[\titlerule]
+
+\begin{document}
+
+\begin{center}
+    {\LARGE \textbf{Osmar Nunes Júnior}} \\ \vspace{0.2cm}
+    CIC, Curitiba, Paraná // +55 (41) 99631-9647 // \href{mailto:osmjr04@gmail.com}{osmjr04@gmail.com} \\
+    Nascido em 14 de Março de 2006. \\
+    \href{https://www.linkedin.com/in/osmarnunesjúnior}{linkedin.com/in/osmarnunesjúnior} \\
+    {\small (Documentos úteis em anexo no perfil do Linkedin.)}
+\end{center}
+
+\vspace{0.5cm}
+
+\section*{Da formação acadêmica}
+Estudante de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná (UFPR). Ensino Médio certificado pelo Colégio Militar de Curitiba.
+
+\section*{Das competências relevantes}
+\textbf{Capacidade de}
+\begin{itemize}[noitemsep, label={--}]
+    \item analisar e identificar necessidades atreladas à Tecnologia da Informação (TI);
+    \item estudar, sugerir e implantar soluções referentes à TI e às áreas correlatas;
+    \item criar, editar e administrar documentos (Excel, Word e PowerPoint);
+    \item comunicação e negociação eficiente e eficaz no respectivo âmbito;
+    \item redigir textos coesos e coerentes em norma culta;
+    \item receber e executar instruções e adaptações.
+\end{itemize}
+
+\vspace{0.3cm}
+\textbf{Entende sobre}
+\begin{itemize}[noitemsep, label={--}]
+    \item português nativo e inglês intermediário (conversação e escrita);
+    \item criação e gerenciamento de conteúdo digital;
+    \item noções de desenvolvimento full-stack;
+    \item análise e resolução de problemas;
+    \item inteligência socioemocional;
+    \item edição de foto vídeo;
+    \item informática avançada.
+\end{itemize}
+
+\section*{Das experiências}
+\begin{itemize}[noitemsep, label={$\bullet$}]
+    \item \textbf{Membro da Empresa Júnior de Computação da UFPR;}\\
+    Voluntário para Assessoria de Projetos. (92 horas)\\
+    Administração de arquivos.
+    
+    \vspace{0.2cm}
+    \item \textbf{Estagiário no Centro RPG Curitiba;}\\
+    Suporte de Desenvolvimento de TI para a clínica. (750 horas)\\
+    Protagonismo na análise, resolução e implantação de fichas e prontuários digitais.
+\end{itemize}
+
+\section*{Bibliografia}
+Acadêmico de Tecnologia em Análise e Desenvolvimento de Sistemas na Universidade Federal do Paraná, com trajetória marcada pela disciplina atrelada a valores do exército brasileiro e pelo engajamento técnico desde a educação básica no Colégio Militar de Curitiba. Minha atuação inicial foi pautada pela participação ativa em clubes e atividades extracurriculares voltadas à Tecnologia da Informação e Relações Internacionais, onde desenvolvi as bases do pensamento analítico e colaborativo.
+
+Assim, apliquei conhecimentos teóricos em ambiente corporativo no Centro RPG Curitiba, clínica referência de fisioterapia, onde liderei a transição de processos legados para o ecossistema digital. Entre as principais contribuições, destacam-se a implementação de prontuários digitais baseados em modelos físicos e o desenvolvimento de scripts de automação em Python para otimizar o fluxo de implantação de dados. Além da vertente de desenvolvimento, possuo experiência prática em suporte técnico, manutenção de infraestrutura de hardware e gerenciamento de sistemas internos.
+
+No mais, dentro da Ecomp, atuei no suporte à gestão e estruturação de projetos, auxiliando na organização de documentações técnicas e no acompanhamento de cronogramas. Colaborei com a Diretoria de Projetos na facilitação de fluxos de trabalho e na garantia de qualidade das entregas, contribuindo para a organização interna e o alinhamento das equipes.
+
+Enfim, tenho uma forte dedicação à análise e resolução de problemas, especialmente no contexto de tecnologia da informação, onde foco em encontrar soluções eficientes para desafios técnicos complexos. Como ponto de desenvolvimento, busco aprimorar constantemente minha gestão de tempo e o cumprimento de prazos, trabalhando para equilibrar demandas e prioridades.
+
+\section*{Dos valores}
+Disciplina, autonomia, iniciativa de atitude, liderança, espírito de corpo e aprendizagem.
+
+\section*{Do almejado}
+Em busca de vínculo empregatício com oportunidade de aquisição da experiência da função.
+
+\vspace{1cm}
+\hrule
+\vspace{0.3cm}
+\small
+\textbf{Documento assinado digitalmente} (gov.br) \\
+OSMAR NUNES JUNIOR \\
+Data: 13/07/2026 07:01:44-0300 \\
+Verifique em \url{https://validar.iti.gov.br} \\
+\\
+\textbf{Informações de Contato Adicionais:} \\
+CPF: 083.544.691-31 \\
+Endereço: Rua Hercílio Kulcheski, 149 - CEP: 81315-330 \\
+Deslocamento: Até 45m de deslocamento (Transporte Público)
+\end{document}
