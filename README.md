@@ -1,2 +1,2 @@
 # CURRICULO
-Códigos dos meu currículos.
+Códigos dos meus currículos.
